@@ -1,4 +1,4 @@
-## <img src="header.gif"/>
+## <img src="header.gif" alt="Header Image"/>
 
 Kolkata, West Bengal, 700032
 
