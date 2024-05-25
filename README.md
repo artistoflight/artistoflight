@@ -1,4 +1,4 @@
-## Souvik Maji
+## <img src="header.png" />
 
 Kolkata, West Bengal, 700032
 
